@@ -1,2 +1,3 @@
-var username= prompt("enter your name:")
-alert("Pushpa kshminchandi please!! " + username)
+var btnTranslate = document.querySelector("#btn-tanslate");
+
+console.log(btnTranslate);
