@@ -23,4 +23,4 @@ function clickHandler() {
     
     
 }
-btnTranslate.addEventListener("click", clickHandler);
+btnTranslate.addEventListener("click", clickHandler );
